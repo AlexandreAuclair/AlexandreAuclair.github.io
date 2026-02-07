@@ -87,7 +87,7 @@ Level = {
 
 ## Screenshots
 
-![Demo](/AlexandreAuclair.github.io/assets/posts/2d-game-engine/demo.PNG)
+![Demo](/assets/posts/2d-game-engine/demo.PNG)
 
 ---
 
