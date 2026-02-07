@@ -22,7 +22,7 @@ title: Alexandre Auclair
 email: alexandre26auclair@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio so that someday somebody, may think I should be worth hiring.
-baseurl: "/AlexandreAuclair.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://AlexandreAuclair.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "AlexandreAuclair.github.io"
 github_username:  AlexandreAuclair
