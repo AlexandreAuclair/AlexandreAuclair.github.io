@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {% endif %}
+
+  {% for post in site.posts %}
+    <article class="post-preview">
+
+      {% if post.image %}
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.image | relative_url }}"
+               alt="{{ post.title }}"
+               class="post-thumbnail"
+               style="max-width: 420px;">
+        </a>
+      {% endif %}
+
+      <h2>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+
+      <p class="post-meta">
+        {{ post.date | date: "%b %-d, %Y" }}
+      </p>
+
+      <p>{{ post.excerpt }}</p>
+
+    </article>
+  {% endfor %}
+
+</div>
