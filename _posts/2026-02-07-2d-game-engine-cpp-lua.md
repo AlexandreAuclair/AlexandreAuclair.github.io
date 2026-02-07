@@ -87,7 +87,7 @@ Level = {
 
 ## Screenshots
 
-<img src="{{ '/assets/posts/2d-game-engine/demo.png' | relative_url }}" alt="Engine demo" style="max-width: 700px; width: 100%;">
+![Demo](/AlexandreAuclair.github.io/assets/posts/2d-game-engine/demo.PNG)
 
 ---
 
