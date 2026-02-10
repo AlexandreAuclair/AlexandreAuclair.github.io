@@ -6,25 +6,27 @@ categories: projects game-dev
 image: assets/posts/2d-game-engine/demo.PNG
 ---
 
-This project is a **2D game engine written in C++** with **Lua scripting support**.  
-The goal was to design a small but flexible engine that separates core systems from gameplay logic.
+Ce projet est un **moteur de jeu 2D écrit en C++** avec **prise en charge du langage de script Lua**.
 
-**Source code:**  
+L'objectif était de concevoir un moteur léger mais flexible, séparant les systèmes principaux de la logique de jeu.
+
+**Code source:**  
 [github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua](https://github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua)
 
 ---
 
-## Features
-- C++ core engine
-- Lua scripting for gameplay logic
-- Entity / component-style architecture
-- Rendering & update loop separation
-- Designed as a learning-focused engine project
+## Fonctionnalités
+- Moteur C++ principal
+- Scripting Lua pour les elements de level
+- Architecture de type entité/composant
+- Séparation des boucles de rendu et de mise à jour
+- Conçu comme un projet de moteur axé sur l'apprentissage
 
 ---
 
-## Architecture Overview
-The engine exposes C++ systems to Lua, allowing game element to be defined without recompiling.
+## Aperçu de l'architecture
+
+Le moteur expose les systèmes C++ à Lua, permettant ainsi de définir des éléments de jeu sans recompilation.
 
 ```cpp
 void Game::Update() {
@@ -58,7 +60,7 @@ void Game::Update() {
 }
 ```
 
-Lua scripts control entities placement for levels loading:
+Des scripts Lua contrôlent le placement des entités pour le chargement des niveaux:
 
 ```lua
 Level = {
@@ -91,16 +93,14 @@ Level = {
 
 ---
 
-## What I Learned
-
-- Designing engine architecture in C++
-- Binding C++ systems to Lua
-- Structuring a medium-size C++ project
+## Ce que j'ai appris
+- Conception de l'architecture du moteur en C++
+- Liaison de systèmes C++ avec Lua
+- Structuration d'un projet C++ de taille moyenne
 
 ---
 
-## Future Improvements
-
-- Scene serialization
-- optimizing for allowing more entity without loosing fps
-- better tools
+## Améliorations futures
+- Sérialisation des scènes
+- Optimisation pour permettre un plus grand nombre d'entités sans perte de FPS
+- Meilleurs outils pour le projet
