@@ -35,8 +35,8 @@ Après ce projet, je suis personnellement de l'avis que c'est 'Node' sont très 
 
 ## Screenshots
 
-![Demo](/assets/posts/blood/part1.PNG)
-![Demo2](/assets/posts/blood/part2.PNG)
+![Demo](/assets/posts/bloodarthur/part1.PNG)
+![Demo2](/assets/posts/bloodarthur/part2.PNG)
 
 ---
 
