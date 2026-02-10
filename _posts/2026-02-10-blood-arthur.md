@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blood Arthur"
-date: 2026-02-10 8:53:55 -0500
+date: 2026-02-10 10:00:00 -0500
 categories: projects game-dev
 image: assets/posts/bloodarthur/part1.PNG
 ---
