@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gun Fight on NES"
-date: 2026-02-13 09:53:55 -0500
+date: 2026-02-13 11:28:55 -0500
 categories: projects game-dev
 image: assets/posts/GunFight/nes1.PNG
 ---
