@@ -10,7 +10,7 @@ voici un projet que j'ai fait dans mon temps libre où j'ai recréer des classiq
 J'ai recréer **Maze War** le premier jeu 3D du mieux que j'ai pus. Ce projet date de 2024.
 
 **Code source:**  
-[github.com/AlexandreAuclair/gun-fight-nes](https://github.com/AlexandreAuclair/gun-fight-nes)
+[github.com/AlexandreAuclair/maze-war-nes](https://github.com/AlexandreAuclair/maze-war-nes)
 
 ---
 
@@ -40,7 +40,6 @@ Après avoir fait **Space Race** j'ai décidé de refaire un autre jeu **Maze Wa
 
 Ce projet m’a permis de :
 - Apprendre l'assembly plus profondement
-- comment gérer l'animation de plusieurs sprite
-- gestion de plusieurs objet conceptuel en assembly
+- comment gérer des données en quantité innombrable
 
 ---
