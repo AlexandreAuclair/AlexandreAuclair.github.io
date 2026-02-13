@@ -2,7 +2,7 @@
 layout: post
 title: "2D-game-engine"
 date: 2026-02-12 09:53:55 -0500
-categories: projects web-dev
+categories: projects game-dev
 image: assets/posts/2d-game-engine/Capture1.PNG
 ---
 
@@ -32,6 +32,7 @@ J'avais aussi implémenter tout les call de SDL2 par moi-même pour les graphiqu
 
 ## Aperçu du projet
 ![Demo](/assets/posts/2d-game-engine/Capture1.PNG)
+
 ---
 
 ## Ce que j’ai appris
