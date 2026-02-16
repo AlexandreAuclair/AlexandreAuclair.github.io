@@ -4,6 +4,7 @@ title: "Blood Arthur"
 date: 2026-02-10 10:00:00 -0500
 categories: projects game-dev
 image: assets/posts/bloodarthur/part1.PNG
+priority: 1
 ---
 
 Ce projet est un **jeu video fait sur Unreal Engine 5** qui mettait en partenariat **l'université de Sherbrooke** et **l'école NAD-UQUAC**.

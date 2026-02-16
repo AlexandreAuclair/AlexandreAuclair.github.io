@@ -4,6 +4,7 @@ title: "2D-game-engine"
 date: 2026-02-12 09:53:55 -0500
 categories: projects game-dev
 image: assets/posts/2d-game-engine/Capture1.PNG
+priority: 4
 ---
 
 Voici un aperçu de mon projet **GauntletClone**, développé à l’Université de Sherbrooke durant l’automne 2023.  

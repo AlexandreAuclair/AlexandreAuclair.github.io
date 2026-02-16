@@ -4,6 +4,7 @@ title: "2D Game Engine in C++ with Lua Scripting"
 date: 2026-02-07 13:53:55 -0500
 categories: projects game-dev
 image: assets/posts/2d-game-engine/demo.PNG
+priority: 2
 ---
 
 Ce projet est un **moteur de jeu 2D écrit en C++** avec **prise en charge du langage de script Lua**.

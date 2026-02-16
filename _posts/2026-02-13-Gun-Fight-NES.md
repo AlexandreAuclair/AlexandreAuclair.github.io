@@ -4,6 +4,7 @@ title: "Gun Fight on NES"
 date: 2026-02-13 11:28:55 -0500
 categories: projects game-dev
 image: assets/posts/GunFight/nes1.PNG
+priority: 5
 ---
 
 voici un projet que j'ai fait dans mon temps libre où j'ai recréer des classiques jeu vidéo d'arcade sur la NES en assembly pour le 6502.
