@@ -7,9 +7,9 @@ image: assets/posts/bloodarthur/part1.PNG
 priority: 1
 ---
 
-Ce projet est un **jeu video fait sur Unreal Engine 5** qui mettait en partenariat **l'université de Sherbrooke** et **l'école NAD-UQUAC**.
+Ce projet est un **jeu video fait sur Unreal Engine 5** qui mettait en partenariat **l'Université de Sherbrooke** et **l'École NAD-UQUAC**.
 
-L'objectif était de concevoir un jeu vidéo pour le présenter à une compétition de jeu vidéo étudiant qui s'appelle les Rookie award en 2025. Nous avons gagner la 2e place.
+L'objectif était de concevoir un jeu vidéo pour le présenter à une compétition de jeu vidéo étudiant qui s'appelle les Rookie Award en 2025. Nous avons gagné la 2e place.
 
 **Code source:**  
 [github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua](https://github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua)
@@ -19,7 +19,7 @@ L'objectif était de concevoir un jeu vidéo pour le présenter à une compétit
 ## Fonctionnalités
 - Moteur Unreal engine 5.
 - Utilisation des Nodes pour coder le jeu.
-- Utilisation de script C++ pour certain code.
+- Utilisation de script C++ pour certains codes.
 - Coopération avec une équipe à distance dans une autre école.
 - Apprendre comment gérer les conflits avec Perforce.
 
