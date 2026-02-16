@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Blockade on NES"
+title: "Blockade sur NES"
 date: 2026-02-13 14:28:55 -0500
 categories: projects game-dev
 image: assets/posts/Blockade/nes1.PNG
 priority: 5
 ---
 
-voici un projet que j'ai fait dans mon temps libre où j'ai recréer des classiques jeu vidéo sur la NES en assembly pour le 6502.
-J'ai recréer **Blockade** un jeu type puzzle joueur contre joueur. Ce projet date de 2024.
+Voici un projet que j'ai fait dans mon temps libre où j'ai recréé des classiques du jeu vidéo sur la NES en Assembly pour le 6502.
+J'ai recréé **Blockade**, un jeu type puzzle joueur contre joueur. Ce projet date de 2024.
 
 **Code source:**  
 [github.com/AlexandreAuclair/blockade](https://github.com/AlexandreAuclair/blockade)

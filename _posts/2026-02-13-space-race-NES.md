@@ -7,8 +7,8 @@ image: assets/posts/SpaceRace/nes1.PNG
 priority: 5
 ---
 
-voici un projet que j'ai fait dans mon temps libre où j'ai recréer des classiques d'Atari sur la NES en assembly pour le 6502.
-J'ai recréer **Space Race** du mieux que j'ai pus. Ce projet date de 2023.
+Voici un projet que j'ai fait dans mon temps libre où j'ai recréé des classiques d'Atari sur la NES en assembly pour le 6502.
+J'ai recréé **Space Race** du mieux que j'ai pus. Ce projet date de 2023.
 
 **Code source:**  
 [github.com/AlexandreAuclair/space-race-nes](https://github.com/AlexandreAuclair/space-race-nes)

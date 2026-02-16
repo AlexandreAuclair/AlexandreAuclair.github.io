@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Maze War on NES"
+title: "Maze War sur NES"
 date: 2026-02-13 13:28:55 -0500
 categories: projects game-dev
 image: assets/posts/MazeWar/nes1.PNG
 priority: 5
 ---
 
-voici un projet que j'ai fait dans mon temps libre où j'ai recréer des classiques jeu vidéo sur la NES en assembly pour le 6502.
-J'ai recréer **Maze War** le premier jeu 3D du mieux que j'ai pus. Ce projet date de 2024.
+Voici un projet que j'ai fait dans mon temps libre où j'ai recréé des classiques du jeu vidéo sur la NES en Assembly pour le 6502.
+J'ai recréé **Maze War**, le premier jeu 3D du mieux que j'ai pus. Ce projet date de 2024.
 
 **Code source:**  
 [github.com/AlexandreAuclair/maze-war-nes](https://github.com/AlexandreAuclair/maze-war-nes)
