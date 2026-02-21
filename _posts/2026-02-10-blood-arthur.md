@@ -7,7 +7,7 @@ image: assets/posts/bloodarthur/part1.PNG
 priority: 1
 ---
 
-Ce projet est un **jeu video fait sur Unreal Engine 5** qui mettait en partenariat **l'Université de Sherbrooke** et **l'École NAD-UQUAC**.
+Ce projet est un **jeu vidéo fait sur Unreal Engine 5** qui mettait en partenariat **l'Université de Sherbrooke** et **l'École NAD-UQUAC**.
 
 L'objectif était de concevoir un jeu vidéo pour le présenter à une compétition de jeu vidéo étudiant qui s'appelle les Rookie Award en 2025. Nous avons gagné la 2e place.
 
@@ -27,9 +27,9 @@ L'objectif était de concevoir un jeu vidéo pour le présenter à une compétit
 
 ## Aperçu de l'architecture
 
-Le moteur nous donne 2 façon de coder le jeu on peux faire marcher du code C++ puis le compiler sur le moteur ou on utilise des 'Nodes'
-c'est des petites boîte qui représente un element de code et qui s'emboîte avec d'autres 'Node' pour faire la même chose que le texte du code source.
-Après ce projet, je suis personnellement de l'avis que c'est 'Node' sont très difficile à comprendre et relentis le projet.
+Le moteur nous donne 2 façons de coder le jeu on peut faire marcher du code C++ puis le compiler sur le moteur ou on utilise des 'Nodes'
+c'est de petite boîte qui représente un élément de code et qui s'emboîte avec d'autres 'Node' pour faire la même chose que le texte du code source.
+Après ce projet, je suis personnellement de l'avis que c'est 'Node' sont très difficile à comprendre et ralentis le projet.
 
 ![Node](/assets/posts/bloodarthur/node.png)
 ---
@@ -43,13 +43,13 @@ Après ce projet, je suis personnellement de l'avis que c'est 'Node' sont très 
 
 ## Ce que j'ai appris
 - Gestion d'équipe.
-- Le travail compliqué d'un tech art.
+- Le travail compliqué d'un Tech art.
 - Structuration d'un contrôle des foules pour L'IA.
 
 ---
 
 ### Ce que j'ai fait dans le projet
 
-Une fois que le projet à commencer mon équipe qui était a Sherbrooke à commencé à regardé tout les bugs qui devait être corrigé, puisque le projet avait 
-déjà commencé. Ensuite on a commencé a coder des abiliter du joueur et certain fonctionnalité du jeu comme les checkpoints. Ensuite on a travailler sur l'IA
-des enemies jusqu'à ce que la session soit terminé.
+Une fois que le projet à commencer mon équipe qui était à Sherbrooke a commencé à regarder tous les bogues qui devait être corrigés, puisque le projet avait 
+déjà commencé. Ensuite on a commencé à coder des habilités du joueur et certaines fonctionnalités du jeu comme les checkpoints. Ensuite on a travaillé sur l'IA
+des ennemies jusqu'à ce que la session soit terminée.

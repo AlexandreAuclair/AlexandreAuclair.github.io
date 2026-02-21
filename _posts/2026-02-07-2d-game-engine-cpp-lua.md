@@ -9,7 +9,7 @@ priority: 2
 
 Ce projet est un **moteur de jeu 2D écrit en C++** avec **prise en charge du langage de script Lua**.
 
-L'objectif était de concevoir un moteur léger mais flexible, séparant les systèmes principaux de la logique de jeu.
+L'objectif était de concevoir un moteur léger, mais flexible, séparant les systèmes principaux de la logique de jeu.
 
 **Code source:**  
 [github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua](https://github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua)

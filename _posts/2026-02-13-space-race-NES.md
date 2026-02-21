@@ -7,8 +7,8 @@ image: assets/posts/SpaceRace/nes1.PNG
 priority: 5
 ---
 
-Voici un projet que j'ai fait dans mon temps libre où j'ai recréé des classiques d'Atari sur la NES en assembly pour le 6502.
-J'ai recréé **Space Race** du mieux que j'ai pus. Ce projet date de 2023.
+Voici un projet que j'ai fait dans mon temps libre où j'ai recréé des classiques d'Atari sur la NES en Assembly pour le 6502.
+J'ai recréé **Space Race** du mieux que j'ai pu. Ce projet date de 2023.
 
 **Code source:**  
 [github.com/AlexandreAuclair/space-race-nes](https://github.com/AlexandreAuclair/space-race-nes)
@@ -17,7 +17,7 @@ J'ai recréé **Space Race** du mieux que j'ai pus. Ce projet date de 2023.
 
 ## Résumé du projet
 
-Après avoir fait **Pong** j'ai décidé de refaire un autre jeu d'Atari. C'est pour finalement prendre ce que j'ai fait dans le jeu **Pong** et l'augmenter à un autre jeu. Le but c'est si je complique le jeu c'est plus compliquer à coder, donc j'apprends encore plus de cette manière. Donc faire pour faire **Space Race** la différence c'est qu'il faut calculer un temps de jeu parce que le jeu à un timer. Le jeu à aussi plus de collision qui sont supposé être des astéroïdes. Elles sont réprésenté par 2 pixels collé ensemble et qui vont dans des directions différentes et à des vitesse différente.
+Après avoir fait **Pong**, j'ai décidé de refaire un autre jeu d'Atari. C'est pour finalement prendre ce que j'ai fait dans le jeu **Pong** et l'augmenter à un autre jeu. Le but c'est si je complique le jeu c'est plus compliqué à coder, donc j'apprends encore plus de cette manière. Donc, faire pour faire **Space Race** la différence c'est qu'il faut calculer un temps de jeu parce que le jeu à une minuterie. Le jeu a aussi plus de collision qui est censée être des astéroïdes. Elles sont réprésentées par 2 pixels collés ensemble et qui vont dans des directions différentes et à des vitesses différentes.
 
 ---
 
@@ -25,7 +25,7 @@ Après avoir fait **Pong** j'ai décidé de refaire un autre jeu d'Atari. C'est 
 
 - **Assembly 6502**
 - **Compilateur cc65**
-- **fceux pour emuler la console**
+- **fceux pour émuler la console**
 
 ---
 
@@ -39,8 +39,8 @@ Après avoir fait **Pong** j'ai décidé de refaire un autre jeu d'Atari. C'est 
 ## Ce que j’ai appris
 
 Ce projet m’a permis de :
-- Apprendre l'assembly plus profondement
+- Apprendre l'Assembly plus profondément
 - comment gérer plus de collision
-- gestion d'un timer en assembly
+- gestion d'un timer en Assembly
 
 ---

@@ -17,7 +17,7 @@ J'ai recréé **Blockade**, un jeu type puzzle joueur contre joueur. Ce projet d
 
 ## Résumé du projet
 
-Après avoir fait **Gun Fight** j'ai décidé de refaire un autre jeu **Blockade**. C'est le jeu qui a inspiré les bataille de moto du film Tron. Le but de ce projet était de faire un autre jeu sur la NES pour voir comment faire bouger le background, jusqu'à maintenant j'utilisais le système des sprite, mais comme tu ne peux avoir que 64 sprite sur l'écran et que 8 sur une même lignes, je me devais d'utiliser les sprites sur le background. Ce qui est difficile est que tu dois écrire les changement pendant un moment précis et donc je devais calculer le temps que prenait les opérandes à éxecuter sur le CPU.
+Après avoir fait **Gun Fight**, j'ai décidé de refaire un autre jeu **Blockade**. C'est le jeu qui a inspiré les batailles de moto du film Tron. Le but de ce projet était de faire un autre jeu sur la NES pour voir comment faire bouger l'arrière-plan, jusqu'à maintenant j'utilisais le système des sprites, mais comme tu ne peux avoir que 64 sprites sur l'écran et que 8 sur une même ligne, je me devais d'utiliser les sprites sur l'arrière-plan. Ce qui est difficile est que tu dois écrire les changements pendant un moment précis et donc je devais calculer le temps que prenaient les opérandes à exécuter sur le CPU.
 
 ---
 
@@ -25,7 +25,7 @@ Après avoir fait **Gun Fight** j'ai décidé de refaire un autre jeu **Blockade
 
 - **Assembly 6502**
 - **Compilateur cc65**
-- **fceux pour emuler la console**
+- **fceux pour émuler la console**
 
 ---
 
@@ -39,8 +39,8 @@ Après avoir fait **Gun Fight** j'ai décidé de refaire un autre jeu **Blockade
 ## Ce que j’ai appris
 
 Ce projet m’a permis de :
-- Apprendre l'assembly plus profondement
-- Contrôle du code pour gérer une boucle main et les intérruption machine
+- Apprendre l'Assembly plus profondément
+- Contrôle du code pour gérer une boucle main et les intérruptions machine
 - Gestion des cycles des opérandes dans le code
 
 ---
