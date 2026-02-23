@@ -21,7 +21,7 @@
 title: Alexandre Auclair
 email: alexandre26auclair@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Un portfolio pour montrer ce que je sais faire… et pourquoi je pourrais être un bon ajout à votre équipe.
+  Ce portfolio a pour objectif de présenter mes compétences et d'illustrer comment je pourrais contribuer positivement à votre équipe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://AlexandreAuclair.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "AlexandreAuclair.github.io"

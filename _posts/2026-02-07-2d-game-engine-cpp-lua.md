@@ -18,7 +18,7 @@ L'objectif était de concevoir un moteur léger, mais flexible, séparant les sy
 
 ## Fonctionnalités
 - Moteur C++ principal
-- Scripting Lua pour les elements de level
+- Scripting Lua pour les éléments de level
 - Architecture de type entité/composant
 - Séparation des boucles de rendu et de mise à jour
 - Conçu comme un projet de moteur axé sur l'apprentissage

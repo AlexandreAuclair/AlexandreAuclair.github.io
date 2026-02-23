@@ -40,7 +40,7 @@ Après avoir fait **Gun Fight**, j'ai décidé de refaire un autre jeu **Blockad
 
 Ce projet m’a permis de :
 - Apprendre l'Assembly plus profondément
-- Contrôle du code pour gérer une boucle main et les intérruptions machine
+- Contrôle du code pour gérer une boucle main et les interruptions machine
 - Gestion des cycles des opérandes dans le code
 
 ---

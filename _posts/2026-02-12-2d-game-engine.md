@@ -45,6 +45,7 @@ Ce projet m’a permis de :
 - Mettre en place une architecture modulaire et réutilisable
 
 
-J'ai aussi compris comment le modèle orienté objet était fragile. C'est pourquoi que dans mon prochain projet que j'ai fait de similaire j'ai pris une autre approche.
+J’ai également compris comment le modèle orienté objet est fragile. Par conséquent, dans un projet subséquent de nature similaire,
+j’ai adopté une approche méthodologique différente.
 
 ---
