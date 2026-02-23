@@ -17,7 +17,7 @@ J'ai recréé **Space Race** du mieux que j'ai pu. Ce projet date de 2023.
 
 ## Résumé du projet
 
-Après avoir fait **Pong**, j'ai décidé de refaire un autre jeu d'Atari. C'est pour finalement prendre ce que j'ai fait dans le jeu **Pong** et l'optimiser dans un autre jeu. Le but c'est si je complique le jeu c'est plus compliqué à coder, donc j'apprends encore plus de cette manière. Donc, pour faire **Space Race** la différence c'est qu'il faut calculer un temps de jeu parce que le jeu à une minuterie. Le jeu a aussi plus de collision avec ce qui est censée être des astéroïdes. Elles sont réprésentées par 2 pixels collés ensemble et qui vont dans des directions différentes et à des vitesses différentes.
+Après avoir fait **Pong**, j'ai décidé de refaire un autre jeu d'Atari. C'est pour finalement prendre ce que j'ai fait dans le jeu **Pong** et l'optimiser dans un autre jeu. Le but c'est si je complique le jeu c'est plus compliqué à coder, donc j'apprends encore plus de cette manière. Donc, pour faire **Space Race** la différence c'est qu'il faut calculer un temps de jeu parce que le jeu a une minuterie. Le jeu a aussi plus de collision avec ce qui est censée être des astéroïdes. Elles sont réprésentées par 2 pixels collés ensemble et qui vont dans des directions différentes et à des vitesses différentes.
 
 ---
 
