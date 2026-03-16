@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Space Race on NES"
+title: "Space Invader on CGA"
 date: 2026-02-13 09:53:55 -0500
 categories: projects game-dev
 image: assets/posts/space-Invader/cga1.PNG
@@ -10,7 +10,7 @@ priority: 5
 Voici un projet que j'ai fait dans mon temps libre où j'ai recréé le jeu Space Invader pour la CGA qui est un ancienne carte graphique du IBM PC 5150.
 
 **Code source:**  
-[github.com/AlexandreAuclair/space-race-nes](https://github.com/AlexandreAuclair/space-race-nes)
+[github.com/AlexandreAuclair/spaceInvader](https://github.com/AlexandreAuclair/spaceInvader)
 
 ---
 
