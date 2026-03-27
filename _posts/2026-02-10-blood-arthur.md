@@ -11,9 +11,6 @@ Ce projet est un **jeu vidéo fait sur Unreal Engine 5** qui mettait en partenar
 
 L’objectif de ce projet était de concevoir un jeu vidéo destiné à être présenté à la compétition de jeux vidéo étudiants, les Rookie Awards, en 2025. Nous sommes fiers d’annoncer avoir remporté la deuxième place.
 
-**Code source:**  
-[github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua](https://github.com/AlexandreAuclair/2D_game_engine_with_c--_and_lua)
-
 ---
 
 ## Fonctionnalités
