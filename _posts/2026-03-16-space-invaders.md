@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space Invader on CGA"
-date: 2026-02-13 09:53:55 -0500
+date: 2026-03-15 09:53:55 -0500
 categories: projects game-dev
 image: assets/posts/space-Invader/cga1.PNG
 priority: 5
